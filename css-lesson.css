@@ -1,0 +1,103 @@
+.tudo{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+#B {
+    color:Blue;
+}
+
+#e {
+    Color:red;
+}
+#l {
+    Color:green;
+}
+#o {
+    Color:yellow;
+}
+.boogle {
+    display: flex;
+    font-size: 25px;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+.all{
+    font-size:20px;
+    font-family:"Lucida Console", "Courier New", monospace;
+    color: grey;
+    padding-top: 15px;
+    }
+.in{
+
+    font-family: Helvetica, sans-serif;
+
+    }
+
+.caixa {
+    height: 250px;
+    background-color: #F1F1F1;
+    width: 250px;
+    padding-top: 30px;
+    padding-left: 30px;
+    box-sizing: border-box;
+    margin: 20px;
+    border: 1px solid black;
+}
+#email{
+    background:yellow;
+    height:30px;
+    width:184PX;
+    border: 1px solid black;
+}
+#prx{
+    background:#0080FF;
+    height:40px;
+    width:190PX;
+    border: 1px solid black;
+    color: white;
+}
+#help{
+    flex-direction: row;
+    justify-content: flex-end;
+    display: flex;
+    margin-right: 33px;
+}
+.criar{
+        margin-top:10px;
+}
+.for{
+    margin-top:20px;
+
+}
+.all{
+     margin-top:10px;
+}
+
+.gif{
+    letter-spacing:10px;
+}
+.barra {
+    background-color: #E6E6E6;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.mps{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-right: 30px;
+}
+#emj{
+    display:flex;
+
+    flex-direction: column;
+}
+.links{
+    margin-left:30px;
+}
